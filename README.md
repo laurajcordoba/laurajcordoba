@@ -13,7 +13,6 @@ I’ve worked on developing and maintaining production systems, focusing on clea
 
 ### 🚀 What I’m working on
 - Improving and maintaining existing systems
-- Building automation tools and trading-related projects
 - Exploring new technologies and continuous learning
 
 ### 💡 About me
